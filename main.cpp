@@ -48,6 +48,7 @@
 #define VOLTAGE_UPPER_LIMIT_PER_CELL 4.5
 
 
+#define SERIAL_BAUD_PIO 115200
 #define PIO_RX_PIN 3
 
 using namespace std;
@@ -244,6 +245,10 @@ int main(){
 	double turgetDepth=0.0;
 	int i=0;
 
+	PIO pio;
+	uint sm;
+	uint offset;
+
 	sem_init(&sem, 1, 1);
 	printf("start");
 	stdio_init_all();
@@ -270,6 +275,12 @@ int main(){
 	printf("HelloLED!\n");
 	gpio_put(LED_PIN, onBoardLED);
 	sleep_ms(500);
+
+
+  bool success = pio_claim_free_sm_and_add_program_for_gpio_range(&uart_rx_program, &pio, &sm, &offset, PIO_RX_PIN, 1, true);
+  hard_assert(success);
+	uart_rx_program_init(pio, sm, offset, PIO_RX_PIN, SERIAL_BAUD_PIO);
+
 
 	BNO055.setup(i2c1);
 	printf("HelloBNO055!\n");

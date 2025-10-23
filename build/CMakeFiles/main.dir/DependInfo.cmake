@@ -15,7 +15,8 @@ set(CMAKE_DEPENDS_CHECK_ASM
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o"
-  "/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o"
+  "/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o"
+  "/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S" "/home/raven/pico/works/Milvus-EM-pico2/build/CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
@@ -51,6 +52,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "LIB_PICO_MULTICORE=1"
   "LIB_PICO_NEWLIB_INTERFACE=1"
   "LIB_PICO_PLATFORM=1"
+  "LIB_PICO_PLATFORM_COMMON=1"
   "LIB_PICO_PLATFORM_COMPILER=1"
   "LIB_PICO_PLATFORM_PANIC=1"
   "LIB_PICO_PLATFORM_SECTIONS=1"
@@ -89,6 +91,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
+  "."
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_atomic/include"
   "/home/raven/pico/pico-sdk/lib/tinyusb/src"
   "lib/no-OS-FatFs/src"
@@ -103,6 +106,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "/home/raven/pico/pico-sdk/src/rp2350/pico_platform/include"
   "/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include"
+  "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include"
@@ -227,6 +231,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.o.d"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/malloc.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o.d"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o.d"
+  "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o.d"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o.d"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.o.d"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o" "gcc" "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o.d"

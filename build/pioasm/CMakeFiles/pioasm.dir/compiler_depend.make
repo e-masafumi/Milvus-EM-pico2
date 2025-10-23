@@ -7,6 +7,7 @@ CMakeFiles/pioasm.dir/ada_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/a
   /home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_enums.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_types.h \
+  version.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -61,6 +62,7 @@ CMakeFiles/pioasm.dir/ada_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/a
   /usr/include/c++/13/bits/shared_ptr.h \
   /usr/include/c++/13/bits/shared_ptr_atomic.h \
   /usr/include/c++/13/bits/shared_ptr_base.h \
+  /usr/include/c++/13/bits/sstream.tcc \
   /usr/include/c++/13/bits/std_abs.h \
   /usr/include/c++/13/bits/stl_algo.h \
   /usr/include/c++/13/bits/stl_algobase.h \
@@ -118,6 +120,7 @@ CMakeFiles/pioasm.dir/ada_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/a
   /usr/include/c++/13/new \
   /usr/include/c++/13/ostream \
   /usr/include/c++/13/set \
+  /usr/include/c++/13/sstream \
   /usr/include/c++/13/stdexcept \
   /usr/include/c++/13/streambuf \
   /usr/include/c++/13/string \
@@ -241,6 +244,7 @@ CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm
   /home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_enums.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_types.h \
+  version.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -295,6 +299,7 @@ CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm
   /usr/include/c++/13/bits/shared_ptr.h \
   /usr/include/c++/13/bits/shared_ptr_atomic.h \
   /usr/include/c++/13/bits/shared_ptr_base.h \
+  /usr/include/c++/13/bits/sstream.tcc \
   /usr/include/c++/13/bits/std_abs.h \
   /usr/include/c++/13/bits/stl_algo.h \
   /usr/include/c++/13/bits/stl_algobase.h \
@@ -352,6 +357,7 @@ CMakeFiles/pioasm.dir/c_sdk_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm
   /usr/include/c++/13/new \
   /usr/include/c++/13/ostream \
   /usr/include/c++/13/set \
+  /usr/include/c++/13/sstream \
   /usr/include/c++/13/stdexcept \
   /usr/include/c++/13/streambuf \
   /usr/include/c++/13/string \
@@ -568,6 +574,7 @@ CMakeFiles/pioasm.dir/gen/lexer.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/ge
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/climits \
   /usr/include/c++/13/clocale \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdio \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cstring \
@@ -836,6 +843,7 @@ CMakeFiles/pioasm.dir/gen/parser.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/g
   /usr/include/c++/13/cctype \
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/clocale \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdio \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cwchar \
@@ -987,6 +995,7 @@ CMakeFiles/pioasm.dir/go_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/go
   /home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_enums.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_types.h \
+  version.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -1041,6 +1050,7 @@ CMakeFiles/pioasm.dir/go_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/go
   /usr/include/c++/13/bits/shared_ptr.h \
   /usr/include/c++/13/bits/shared_ptr_atomic.h \
   /usr/include/c++/13/bits/shared_ptr_base.h \
+  /usr/include/c++/13/bits/sstream.tcc \
   /usr/include/c++/13/bits/std_abs.h \
   /usr/include/c++/13/bits/stl_algo.h \
   /usr/include/c++/13/bits/stl_algobase.h \
@@ -1098,6 +1108,7 @@ CMakeFiles/pioasm.dir/go_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/go
   /usr/include/c++/13/new \
   /usr/include/c++/13/ostream \
   /usr/include/c++/13/set \
+  /usr/include/c++/13/sstream \
   /usr/include/c++/13/stdexcept \
   /usr/include/c++/13/streambuf \
   /usr/include/c++/13/string \
@@ -1296,6 +1307,7 @@ CMakeFiles/pioasm.dir/hex_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/h
   /usr/include/c++/13/cctype \
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/clocale \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdio \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cwchar \
@@ -1676,6 +1688,7 @@ CMakeFiles/pioasm.dir/main.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/main.cp
   /home/raven/pico/pico-sdk/tools/pioasm/pio_assembler.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_enums.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_types.h \
+  version.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -1767,6 +1780,7 @@ CMakeFiles/pioasm.dir/main.cpp.o: /home/raven/pico/pico-sdk/tools/pioasm/main.cp
   /usr/include/c++/13/cctype \
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/clocale \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdio \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cwchar \
@@ -2011,6 +2025,7 @@ CMakeFiles/pioasm.dir/pio_assembler.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
   /usr/include/c++/13/cctype \
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/clocale \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdio \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cwchar \
@@ -2405,6 +2420,7 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
   /home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_enums.h \
   /home/raven/pico/pico-sdk/tools/pioasm/pio_types.h \
+  version.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -2800,10 +2816,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 
 /usr/include/c++/13/ext/alloc_traits.h:
 
-/usr/include/c++/13/utility:
-
-/usr/include/c++/13/bits/stl_heap.h:
-
 /usr/include/c++/13/bits/stl_construct.h:
 
 /usr/include/c++/13/bits/stl_bvector.h:
@@ -2811,10 +2823,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 /usr/include/c++/13/bits/allocator.h:
 
 /usr/include/c++/13/bits/stl_algo.h:
-
-/usr/include/c++/13/bits/cxxabi_forced.h:
-
-/usr/include/c++/13/vector:
 
 /usr/include/x86_64-linux-gnu/bits/wchar2-decl.h:
 
@@ -2868,20 +2876,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
 
-/usr/include/c++/13/ext/aligned_buffer.h:
-
-/usr/include/locale.h:
-
-/usr/include/c++/13/bits/utility.h:
-
-/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
-
-/usr/include/c++/13/bits/stl_algobase.h:
-
-/home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h:
-
-/usr/include/c++/13/backward/auto_ptr.h:
-
 /usr/include/c++/13/type_traits:
 
 /usr/include/x86_64-linux-gnu/sys/single_threaded.h:
@@ -2901,6 +2895,26 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 /usr/include/c++/13/bits/basic_string.tcc:
 
 /home/raven/pico/pico-sdk/tools/pioasm/gen/lexer.cpp:
+
+/usr/include/c++/13/bits/sstream.tcc:
+
+/usr/include/c++/13/cwctype:
+
+/usr/include/c++/13/ext/aligned_buffer.h:
+
+/usr/include/locale.h:
+
+/usr/include/c++/13/bits/utility.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
+
+/usr/include/c++/13/bits/stl_algobase.h:
+
+/home/raven/pico/pico-sdk/tools/pioasm/pio_disassembler.h:
+
+/usr/include/c++/13/backward/auto_ptr.h:
+
+version.h:
 
 /usr/include/c++/13/fstream:
 
@@ -2928,10 +2942,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 
 /usr/include/c++/13/bits/predefined_ops.h:
 
-/usr/include/c++/13/cwctype:
-
-/usr/include/c++/13/bits/sstream.tcc:
-
 /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h:
 
 /usr/include/c++/13/bits/ptr_traits.h:
@@ -2951,6 +2961,8 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/13/bits/hash_bytes.h:
+
+/usr/include/c++/13/bits/cxxabi_forced.h:
 
 /usr/include/c++/13/bits/localefwd.h:
 
@@ -2998,8 +3010,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
-/usr/include/ctype.h:
-
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/c++/13/bits/locale_classes.h:
@@ -3023,6 +3033,14 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 /usr/include/c++/13/bits/ostream_insert.h:
 
 /usr/include/c++/13/stdexcept:
+
+/usr/include/c++/13/bits/stl_heap.h:
+
+/usr/include/c++/13/utility:
+
+/usr/include/c++/13/vector:
+
+/usr/include/ctype.h:
 
 /usr/include/features-time64.h:
 
@@ -3146,6 +3164,10 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
+/usr/include/c++/13/sstream:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
@@ -3223,10 +3245,6 @@ CMakeFiles/pioasm.dir/python_output.cpp.o: /home/raven/pico/pico-sdk/tools/pioas
 /usr/include/c++/13/cassert:
 
 /usr/include/c++/13/cstring:
-
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
-
-/usr/include/c++/13/sstream:
 
 /usr/include/c++/13/stdlib.h:
 

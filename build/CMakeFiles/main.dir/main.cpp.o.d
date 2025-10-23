@@ -318,6 +318,7 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
@@ -363,9 +364,14 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pwm.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pwm.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pio.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pio.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/clocks.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/clocks.h \
+ /home/raven/pico/works/Milvus-EM-pico2/build/uart_rx.pio.h \
  /home/raven/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
  /home/raven/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
  /home/raven/pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
@@ -385,10 +391,6 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/ff15/source/ff.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/include/ffconf.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/sd_card.h \
- /home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio.h \
- /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pio.h \
- /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pio.h \
- /home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/SDIO/rp2040_sdio.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/SPI/my_spi.h \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_dma/include/hardware/dma.h \

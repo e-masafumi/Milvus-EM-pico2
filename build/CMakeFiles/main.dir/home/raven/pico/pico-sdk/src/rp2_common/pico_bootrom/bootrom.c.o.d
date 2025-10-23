@@ -24,6 +24,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
@@ -46,4 +47,5 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom
  /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
  /home/raven/pico/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
  /home/raven/pico/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
- /home/raven/pico/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
+ /home/raven/pico/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/hardware_rcp/include/hardware/rcp.h

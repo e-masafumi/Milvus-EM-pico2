@@ -249,6 +249,9 @@ PIOASM_EXTRA_SOURCE_FILES:STRING=
 //No help, variable specified on the command line.
 PIOASM_FLAT_INSTALL:UNINITIALIZED=1
 
+//Initial cache
+PIOASM_VERSION_STRING:STRING=2.2.0
+
 //Value Computed by CMake
 pioasm_BINARY_DIR:STATIC=/home/raven/pico/works/Milvus-EM-pico2/build/pioasm
 

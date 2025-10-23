@@ -1,7 +1,6 @@
 CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/critical_section.c.o: \
  /home/raven/pico/pico-sdk/src/common/pico_sync/critical_section.c \
  /home/raven/pico/pico-sdk/src/common/pico_sync/include/pico/critical_section.h \
- /home/raven/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
@@ -25,9 +24,11 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/critical_secti
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+ /home/raven/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
  /home/raven/pico/pico-sdk/src/common/pico_time/include/pico/time.h \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/timer.h \

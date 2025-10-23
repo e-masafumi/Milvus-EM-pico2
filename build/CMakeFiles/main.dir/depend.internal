@@ -26,6 +26,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/irq_han
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -59,6 +60,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops
  /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -103,6 +105,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o
  /home/raven/pico/pico-sdk/src/rp2_common/pico_crt0/embedded_end_block.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/pico_crt0/embedded_start_block.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -125,6 +128,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_a
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_dcp/include/hardware/dcp_canned.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_dcp/include/hardware/dcp_instr.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -145,6 +149,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_c
  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h
  /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -167,6 +172,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_f
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_dcp/include/hardware/dcp_canned.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_dcp/include/hardware/dcp_instr.inc.S
  /home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -187,12 +193,13 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_s
  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h
  /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h
-CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o
+CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o
  /home/raven/pico/pico-sdk/src/boards/include/boards/pico2.h
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico.h
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/assert.h
@@ -206,7 +213,29 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_con
  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/asm_helper.S
  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h
  /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
- /home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
+ generated/pico_base/pico/config_autogen.h
+ generated/pico_base/pico/version.h
+CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o
+ /home/raven/pico/pico-sdk/src/boards/include/boards/pico2.h
+ /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico.h
+ /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/assert.h
+ /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/config.h
+ /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h
+ /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/rvcsr.h
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h
+ /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/asm_helper.S
+ /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h
+ /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h
@@ -227,6 +256,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci
  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h
  /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h

@@ -113,6 +113,8 @@ pico/platform/sections.h
 /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/pico/platform/sections.h
 pico/platform/panic.h
 /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/pico/platform/panic.h
+pico/platform/common.h
+/home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/pico/platform/common.h
 hardware/regs/addressmap.h
 /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/hardware/regs/addressmap.h
 hardware/regs/sio.h
@@ -276,13 +278,19 @@ pico/asm_helper.S
 pico.h
 /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/pico.h
 
-/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S
+/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S
+pico/asm_helper.S
+/home/raven/pico/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
+
+/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S
 pico/asm_helper.S
 /home/raven/pico/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S
 pico/asm_helper.S
 /home/raven/pico/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
+
+/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h
 hardware/platform_defs.h

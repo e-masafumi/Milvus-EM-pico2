@@ -20,11 +20,22 @@ add_executable(main
 	hw_config.c
 )
 
+pico_generate_pio_header(main ${CMAKE_CURRENT_LIST_DIR}/uart_rx.pio)
+
 add_subdirectory(lib/no-OS-FatFs/src)
 
 pico_enable_stdio_usb(main 1)
 pico_enable_stdio_uart(main 0)
 
+target_link_libraries(main 
+	pico_stdlib 
+	pico_multicore 
+	hardware_pwm 
+	hardware_i2c 
+	no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
+	hardware_uart 
+	hardware_pio
+)  
+
 pico_add_extra_outputs(main)
 
-target_link_libraries(main pico_stdlib pico_multicore hardware_pwm hardware_i2c no-OS-FatFS-SD-SDIO-SPI-RPi-Pico hardware_uart)  

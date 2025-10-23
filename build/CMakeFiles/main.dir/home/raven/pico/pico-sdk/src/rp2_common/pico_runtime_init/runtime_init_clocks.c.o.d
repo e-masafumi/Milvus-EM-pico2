@@ -24,6 +24,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
@@ -40,6 +41,13 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_ticks/include/hardware/ticks.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/ticks.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/ticks.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/timer.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/timer.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/hardware_vreg/include/hardware/vreg.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/powman.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/powman.h \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/xosc.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/xosc.h

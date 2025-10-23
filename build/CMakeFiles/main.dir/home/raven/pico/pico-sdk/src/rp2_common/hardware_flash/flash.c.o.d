@@ -24,6 +24,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_flash/flash
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
@@ -48,4 +49,6 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_flash/flash
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/qmi.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/qmi.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pads_qspi.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pads_qspi.h \
  /home/raven/pico/pico-sdk/src/rp2_common/hardware_xip_cache/include/hardware/xip_cache.h

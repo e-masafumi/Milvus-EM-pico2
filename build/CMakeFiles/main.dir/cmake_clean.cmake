@@ -142,7 +142,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o.d"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.o"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.o.d"
-  "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o"
+  "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o"
+  "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.o"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.o.d"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o"
@@ -150,6 +151,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o.d"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.o.d"
+  "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o"
+  "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o.d"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o.d"
   "CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.o"
@@ -220,8 +223,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/util.c.o.d"
   "CMakeFiles/main.dir/main.cpp.o"
   "CMakeFiles/main.dir/main.cpp.o.d"
+  "main.bin"
+  "main.dis"
   "main.elf"
+  "main.hex"
   "main.pdb"
+  "main.uf2"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -32,6 +32,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "generated/pico_base"
   "/home/raven/pico/pico-sdk/src/boards/include"
   "/home/raven/pico/pico-sdk/src/rp2350/pico_platform/include"
+  "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include"
   "/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include"

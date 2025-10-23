@@ -130,6 +130,19 @@ main/fast:
 .PHONY : main/fast
 
 #=============================================================================
+# Target rules for targets named main_uart_rx_pio_h
+
+# Build rule for target.
+main_uart_rx_pio_h: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main_uart_rx_pio_h
+.PHONY : main_uart_rx_pio_h
+
+# fast build rule for target.
+main_uart_rx_pio_h/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main_uart_rx_pio_h.dir/build.make CMakeFiles/main_uart_rx_pio_h.dir/build
+.PHONY : main_uart_rx_pio_h/fast
+
+#=============================================================================
 # Target rules for targets named bs2_default
 
 # Build rule for target.
@@ -180,6 +193,19 @@ cyw43_driver_picow_cyw43_bus_pio_spi_pio_h: cmake_check_build_system
 cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast:
 	$(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/build.make pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/build
 .PHONY : cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast
+
+#=============================================================================
+# Target rules for targets named pico_status_led_ws2812_pio_h
+
+# Build rule for target.
+pico_status_led_ws2812_pio_h: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico_status_led_ws2812_pio_h
+.PHONY : pico_status_led_ws2812_pio_h
+
+# fast build rule for target.
+pico_status_led_ws2812_pio_h/fast:
+	$(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pico_status_led_ws2812_pio_h.dir/build.make pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pico_status_led_ws2812_pio_h.dir/build
+.PHONY : pico_status_led_ws2812_pio_h/fast
 
 #=============================================================================
 # Target rules for targets named no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h
@@ -1882,13 +1908,21 @@ home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
 .PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
 
-home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.o: home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o
-.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.o
+home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.o: home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.o
 
 # target to build an object file
-home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o
-.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.S.o
+home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o
+
+home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.o: home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.o
+
+# target to build an object file
+home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o
 
 home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.o: home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.o
 .PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.o
@@ -1969,6 +2003,30 @@ home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.s: home/raven/p
 home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.s
 .PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.s
+
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.o: home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.o
+
+# target to build an object file
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o
+
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.i: home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.i
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.i
+
+# target to preprocess a source file
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.i
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.i
+
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.s: home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.s
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.s
+
+# target to generate assembly for a file
+home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.s
+.PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.s
 
 home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.o: home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o
 .PHONY : home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.o
@@ -2820,7 +2878,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... bs2_default_bin"
 	@echo "... cyw43_driver_picow_cyw43_bus_pio_spi_pio_h"
+	@echo "... main_uart_rx_pio_h"
 	@echo "... no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h"
+	@echo "... pico_status_led_ws2812_pio_h"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
 	@echo "... main"
@@ -3035,7 +3095,8 @@ help:
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.o"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.i"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.s"
-	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv_m33.o"
+	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_common_m33.o"
+	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.o"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.o"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.i"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_math.s"
@@ -3046,6 +3107,9 @@ help:
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.o"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.i"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.s"
+	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.o"
+	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.i"
+	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.s"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.o"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.i"
 	@echo "... home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.s"

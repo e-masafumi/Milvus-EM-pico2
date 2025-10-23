@@ -27,6 +27,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multi
  /usr/include/newlib/machine/_default_types.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
@@ -52,5 +53,6 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multi
  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/scb.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/include/pico/runtime_init.h \
  /home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/include/pico/runtime.h \
+ /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/psm.h \
  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/psm.h \
  /home/raven/pico/pico-sdk/src/common/hardware_claim/include/hardware/claim.h

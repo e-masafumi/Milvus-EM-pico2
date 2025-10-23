@@ -46,6 +46,7 @@ CMakeFiles/main.dir/func-BNO055.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/fu
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -168,6 +169,7 @@ CMakeFiles/main.dir/func-INA228.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/fu
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -289,6 +291,7 @@ CMakeFiles/main.dir/func-MS5837-02BA.cpp.o: /home/raven/pico/works/Milvus-EM-pic
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -410,6 +413,7 @@ CMakeFiles/main.dir/func-i2c.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/func-
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -488,6 +492,7 @@ CMakeFiles/main.dir/func-pwm.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/func-
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -563,6 +568,7 @@ CMakeFiles/main.dir/func-uart.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/func
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -726,6 +732,7 @@ CMakeFiles/main.dir/func-usbuart.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/f
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -787,6 +794,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_d
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -850,6 +858,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_devic
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -899,6 +908,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_devic
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -936,6 +946,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_de
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -973,6 +984,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_devic
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1010,6 +1022,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_dev
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1047,6 +1060,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_devic
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1084,6 +1098,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1121,6 +1136,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_devic
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1158,6 +1174,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1220,6 +1237,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1269,6 +1287,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/class/video/video_d
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1327,6 +1346,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1405,6 +1425,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.o: /h
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1483,6 +1504,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/device/usbd_control
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1567,6 +1589,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/portable/raspberryp
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1640,6 +1663,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/portable/raspberryp
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1720,6 +1744,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/lib/tinyusb/src/tusb.c.o: /home/rav
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1772,6 +1797,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/hardware_claim/claim.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1814,6 +1840,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/critical_secti
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1855,6 +1882,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/lock_core.c.o:
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1897,6 +1925,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/mutex.c.o: /ho
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -1941,6 +1970,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_sync/sem.c.o: /home
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2000,6 +2030,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_time/time.c.o: /hom
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2049,6 +2080,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_time/timeout_helper
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2080,6 +2112,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_util/datetime.c.o: 
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2132,6 +2165,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_util/pheap.c.o: /ho
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2184,6 +2218,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/common/pico_util/queue.c.o: /ho
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2225,11 +2260,11 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2350/pico_platform/platform.c
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sysinfo.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/tbman.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2274,6 +2309,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/cmsis/stub/CMSIS/Dev
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/stub/CMSIS/Device/RP2350/Include/system_RP2350.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2313,6 +2349,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_boot_lock/b
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_boot_lock/include/hardware/boot_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2369,6 +2406,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/cloc
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio_coproc.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_pll/include/hardware/pll.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2400,6 +2438,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_divider/div
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_divider/include/hardware/divider.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2442,6 +2481,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_dma/include/hardware/dma.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2479,10 +2519,12 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_flash/flash
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/bootram.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pads_qspi.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/qmi.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/bootram.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pads_qspi.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/qmi.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
@@ -2497,6 +2539,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_flash/flash
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2555,6 +2598,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2604,6 +2648,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_i2c/include/hardware/i2c.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2653,6 +2698,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2711,6 +2757,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_pio/include/hardware/pio_instructions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2753,6 +2800,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_pll/include/hardware/pll.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2804,6 +2852,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_powman/powm
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio_coproc.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_powman/include/hardware/powman.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2857,6 +2906,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_spi/include/hardware/spi.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2893,6 +2943,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2930,6 +2981,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_l
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -2968,6 +3020,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_ticks/ticks
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_ticks/include/hardware/ticks.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3014,6 +3067,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/timer
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3061,6 +3115,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3097,6 +3152,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_vreg/include/hardware/vreg.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3148,6 +3204,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_watchdog/wa
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3197,6 +3254,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_xip_cache/x
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_xip_cache/include/hardware/xip_cache.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3236,6 +3294,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3283,6 +3342,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_aon_timer/aon_t
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_aon_timer/include/pico/aon_timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3350,6 +3410,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_atomic/atomic.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_atomic/include/stdatomic.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3391,12 +3452,14 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_boot_lock/include/hardware/boot_lock.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/hardware_rcp/include/hardware/rcp.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3446,6 +3509,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3486,6 +3550,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_clib_interface/
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3548,6 +3613,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_cxx_options/new
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3595,6 +3661,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_divider/divider
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_divider/include/hardware/divider.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3627,6 +3694,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_double/double_m
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/sf_table.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_double/include/pico/double.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3657,37 +3725,12 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_
   /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
   /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
   /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
-  /home/raven/pico/pico-sdk/src/common/pico_time/include/pico/time.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/accessctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/io_bank0.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/m33.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pads_bank0.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/timer.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/usb.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/interp.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/io_bank0.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/m33.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/nvic.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pads_bank0.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/scb.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/sio.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/timer.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/usb.h \
-  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/usb_dpram.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
-  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform/cpu_regs.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio_coproc.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
-  /home/raven/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include/pico/fix/rp2040_usb_device_enumeration.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3737,6 +3780,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/include/pico/multicore.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3769,6 +3813,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_float/float_mat
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/sf_table.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_float/include/pico/float.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3818,6 +3863,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/malloc.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_malloc/include/pico/malloc.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3869,6 +3915,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multi
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/interp.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/m33.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/nvic.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/psm.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/scb.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/timer.h \
@@ -3881,11 +3928,47 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/multi
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/include/pico/multicore.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/include/pico/runtime.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/include/pico/runtime_init.h \
+  generated/pico_base/pico/config_autogen.h \
+  generated/pico_base/pico/version.h \
+  /usr/include/newlib/_ansi.h \
+  /usr/include/newlib/_newlib_version.h \
+  /usr/include/newlib/assert.h \
+  /usr/include/newlib/machine/_default_types.h \
+  /usr/include/newlib/machine/ieeefp.h \
+  /usr/include/newlib/newlib.h \
+  /usr/include/newlib/sys/cdefs.h \
+  /usr/include/newlib/sys/config.h \
+  /usr/include/newlib/sys/features.h \
+  /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdbool.h \
+  /usr/lib/gcc/arm-none-eabi/13.2.1/include/stddef.h \
+  /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h
+
+CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c.o: /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c \
+  /home/raven/pico/pico-sdk/src/boards/include/boards/pico2.h \
+  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico.h \
+  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
+  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/config.h \
+  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+  /home/raven/pico/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/accessctrl.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/tbman.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h \
+  /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
   generated/pico_base/pico/config_autogen.h \
   generated/pico_base/pico/version.h \
   /usr/include/newlib/_ansi.h \
@@ -3913,6 +3996,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -3965,6 +4049,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4004,6 +4089,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime/runtime
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4070,6 +4156,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4109,14 +4196,19 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/accessctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/addressmap.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/clocks.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pll.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/powman.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/ticks.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/timer.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/xosc.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/clocks.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pll.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/powman.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/ticks.h \
+  /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/timer.h \
   /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/xosc.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
@@ -4124,7 +4216,10 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_pll/include/hardware/pll.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_ticks/include/hardware/ticks.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/hardware_vreg/include/hardware/vreg.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_xosc/include/hardware/xosc.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4157,6 +4252,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_runtime_init/ru
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4193,6 +4289,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_standard_binary
   /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h \
   /home/raven/pico/pico-sdk/src/rp2350/pico_platform/include/pico/platform.h \
   /home/raven/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4235,6 +4332,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4323,6 +4421,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4411,6 +4510,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4488,6 +4588,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4570,6 +4671,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4617,6 +4719,7 @@ CMakeFiles/main.dir/home/raven/pico/pico-sdk/src/rp2_common/pico_unique_id/uniqu
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom_constants.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4701,6 +4804,7 @@ CMakeFiles/main.dir/hw_config.c.o: /home/raven/pico/works/Milvus-EM-pico2/hw_con
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4873,6 +4977,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/SDIO/rp2040_sdio.c.o: /home/ra
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -4996,6 +5101,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/SDIO/sd_card_sdio.c.o: /home/r
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5115,6 +5221,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/SPI/my_spi.c.o: /home/raven/pi
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5229,6 +5336,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/SPI/sd_card_spi.c.o: /home/rav
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5347,6 +5455,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/SPI/sd_spi.c.o: /home/raven/pi
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5463,6 +5572,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/dma_interrupts.c.o: /home/rave
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5577,6 +5687,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/sd_driver/sd_card.c.o: /home/raven/pico/
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5696,6 +5807,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/crash.c.o: /home/raven/pico/works/Mi
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5851,6 +5963,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/file_stream.c.o: /home/raven/pico/wo
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_resets/include/hardware/resets.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -5947,6 +6060,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/glue.c.o: /home/raven/pico/works/Mil
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -6047,6 +6161,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/my_debug.c.o: /home/raven/pico/works
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/include/hardware/sync/spin_lock.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -6138,6 +6253,7 @@ CMakeFiles/main.dir/lib/no-OS-FatFs/src/src/my_rtc.c.o: /home/raven/pico/works/M
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_aon_timer/include/pico/aon_timer.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -6284,6 +6400,7 @@ CMakeFiles/main.dir/main.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/main.cpp 
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
   /home/raven/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_multicore/include/pico/multicore.h \
+  /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
   /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
@@ -6291,6 +6408,7 @@ CMakeFiles/main.dir/main.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/main.cpp 
   /home/raven/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
   generated/pico_base/pico/config_autogen.h \
   generated/pico_base/pico/version.h \
+  uart_rx.pio.h \
   /home/raven/pico/works/Milvus-EM-pico2/extern.h \
   /home/raven/pico/works/Milvus-EM-pico2/func-BNO055.h \
   /home/raven/pico/works/Milvus-EM-pico2/func-INA228.h \
@@ -6790,6 +6908,12 @@ CMakeFiles/main.dir/main.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/main.cpp 
 
 /usr/include/newlib/c++/13.2.1/bits/std_function.h:
 
+/usr/include/newlib/c++/13.2.1/bits/slice_array.h:
+
+/usr/include/newlib/c++/13.2.1/bits/shared_ptr_base.h:
+
+/usr/include/newlib/c++/13.2.1/bits/shared_ptr_atomic.h:
+
 /home/raven/pico/pico-sdk/src/common/pico_util/datetime.c:
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_time_adapter/include/pico/time_adapter.h:
@@ -6817,6 +6941,10 @@ CMakeFiles/main.dir/main.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/main.cpp 
 /home/raven/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c:
 
 /home/raven/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c:
+
+/usr/include/newlib/c++/13.2.1/bits/sstream.tcc:
+
+/home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h:
 
 /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/ff15/source/ff.c:
 
@@ -6849,6 +6977,8 @@ CMakeFiles/main.dir/main.cpp.o: /home/raven/pico/works/Milvus-EM-pico2/main.cpp 
 /home/raven/pico/pico-sdk/src/rp2_common/cmsis/stub/CMSIS/Core/Include/m-profile/cmsis_gcc_m.h:
 
 /home/raven/pico/works/Milvus-EM-pico2/func-usbuart.h:
+
+/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/common.c:
 
 /home/raven/pico/pico-sdk/lib/tinyusb/src/tusb_option.h:
 
@@ -7230,6 +7360,10 @@ generated/pico_base/pico/version.h:
 
 /home/raven/pico/works/Milvus-EM-pico2/func-MS5837-02BA.h:
 
+/home/raven/pico/works/Milvus-EM-pico2/func-pwm.cpp:
+
+/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/uart.h:
+
 /home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/i2c.h:
 
 /usr/include/newlib/c++/13.2.1/ext/type_traits.h:
@@ -7275,6 +7409,8 @@ generated/pico_base/pico/version.h:
 /usr/include/newlib/c++/13.2.1/tr1/poly_hermite.tcc:
 
 /usr/include/newlib/c++/13.2.1/pstl/glue_algorithm_defs.h:
+
+/home/raven/pico/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h:
 
 /home/raven/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c:
 
@@ -7406,6 +7542,8 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 
 /home/raven/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h:
 
+/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/pads_qspi.h:
+
 /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/SDIO/sd_card_sdio.c:
 
 /usr/include/newlib/c++/13.2.1/tr1/riemann_zeta.tcc:
@@ -7425,6 +7563,8 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /home/raven/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c:
 
 /usr/include/newlib/sys/_types.h:
+
+/home/raven/pico/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/pads_qspi.h:
 
 /usr/include/newlib/c++/13.2.1/bits/fstream.tcc:
 
@@ -7451,10 +7591,6 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h:
 
 /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/dma_interrupts.h:
-
-/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/uart.h:
-
-/home/raven/pico/works/Milvus-EM-pico2/func-pwm.cpp:
 
 /usr/include/newlib/c++/13.2.1/bits/regex.h:
 
@@ -7483,10 +7619,6 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /usr/include/newlib/c++/13.2.1/bits/streambuf_iterator.h:
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_printf/printf.c:
-
-/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/tbman.h:
-
-/usr/include/newlib/c++/13.2.1/bits/forward_list.tcc:
 
 /usr/include/newlib/c++/13.2.1/math.h:
 
@@ -7517,8 +7649,6 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /home/raven/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c:
 
 /home/raven/pico/pico-sdk/src/rp2_common/hardware_boot_lock/include/hardware/boot_lock.h:
-
-/usr/include/newlib/c++/13.2.1/bits/shared_ptr_atomic.h:
 
 /usr/include/newlib/machine/_time.h:
 
@@ -7720,6 +7850,8 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 
 /home/raven/pico/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h:
 
+/home/raven/pico/pico-sdk/src/rp2_common/hardware_rcp/include/hardware/rcp.h:
+
 /usr/include/newlib/c++/13.2.1/ciso646:
 
 /usr/include/newlib/string.h:
@@ -7748,7 +7880,9 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom/sf_table.h:
 
-/home/raven/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include/pico/fix/rp2040_usb_device_enumeration.h:
+/home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/tbman.h:
+
+/usr/include/newlib/c++/13.2.1/bits/forward_list.tcc:
 
 /home/raven/pico/pico-sdk/src/rp2_common/pico_platform_panic/panic.c:
 
@@ -7796,8 +7930,6 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 
 /usr/include/newlib/c++/13.2.1/bits/align.h:
 
-/usr/include/newlib/c++/13.2.1/bits/slice_array.h:
-
 /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/SDIO/rp2040_sdio.h:
 
 /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/SPI/my_spi.h:
@@ -7838,6 +7970,8 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 
 /usr/include/newlib/c++/13.2.1/bits/regex_automaton.h:
 
+uart_rx.pio.h:
+
 /usr/include/newlib/c++/13.2.1/algorithm:
 
 /home/raven/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/accessctrl.h:
@@ -7869,10 +8003,6 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /home/raven/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio_coproc.h:
 
 /usr/include/newlib/c++/13.2.1/bits/chrono.h:
-
-/home/raven/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h:
-
-/usr/include/newlib/c++/13.2.1/bits/sstream.tcc:
 
 /usr/include/newlib/c++/13.2.1/atomic:
 
@@ -7949,5 +8079,3 @@ lib/no-OS-FatFs/src/rp2040_sdio.pio.h:
 /usr/include/newlib/c++/13.2.1/bits/regex_constants.h:
 
 /usr/include/newlib/c++/13.2.1/bits/regex_scanner.h:
-
-/usr/include/newlib/c++/13.2.1/bits/shared_ptr_base.h:
