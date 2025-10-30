@@ -2868,6 +2868,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+pio_uart.o: pio_uart.cpp.o
+.PHONY : pio_uart.o
+
+# target to build an object file
+pio_uart.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/pio_uart.cpp.o
+.PHONY : pio_uart.cpp.o
+
+pio_uart.i: pio_uart.cpp.i
+.PHONY : pio_uart.i
+
+# target to preprocess a source file
+pio_uart.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/pio_uart.cpp.i
+.PHONY : pio_uart.cpp.i
+
+pio_uart.s: pio_uart.cpp.s
+.PHONY : pio_uart.s
+
+# target to generate assembly for a file
+pio_uart.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/pio_uart.cpp.s
+.PHONY : pio_uart.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -3215,6 +3239,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... pio_uart.o"
+	@echo "... pio_uart.i"
+	@echo "... pio_uart.s"
 .PHONY : help
 
 

@@ -407,4 +407,5 @@ CMakeFiles/main.dir/main.cpp.o: \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/ff15/source/ff.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/sd_card_constants.h \
  /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/sd_driver/sd_regs.h \
- /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/include/util.h
+ /home/raven/pico/works/Milvus-EM-pico2/lib/no-OS-FatFs/src/include/util.h \
+ /home/raven/pico/works/Milvus-EM-pico2/pio_uart.hpp

@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <cstdlib>
 #include "pico/stdlib.h"
 #include "pico/multicore.h"
 #include "hardware/gpio.h"
@@ -26,7 +27,7 @@
 #include "func-INA228.h"
 #include "ff.h"
 #include "sd_card.h"
-
+#include "pio_uart.hpp"
 
 #define CORE1_HELLO   (99999)
 #define LOG_WRITE_COM   (12345)
@@ -95,6 +96,12 @@ double uartReceiveData;
 struct str_sensorsData logData;
 struct str_NMEA decodedNMEA;
 
+
+constexpr int LINE_MAX = 256;
+constexpr int QSIZE    = 16;
+static char q[QSIZE][LINE_MAX];
+static volatile uint8_t q_w=0, q_r=0;
+
 bool reserved_addr(uint8_t addr){
     return (addr & 0x78) == 0 || (addr & 0x78) == 0x78;
 }
@@ -107,6 +114,15 @@ bool repeating_timer_callback(struct repeating_timer *t) {
 	exeFlag = true;
 	return true;
 }
+
+bool fifo_push(const char* s){
+    uint8_t n=(q_w+1)&(QSIZE-1);
+    if(n==q_r) return false;           // full
+    strncpy(q[q_w], s, LINE_MAX-1);
+    q[q_w][LINE_MAX-1]='\0';
+    q_w=n; return true;
+}
+
 
 void core1_main(void){
 
@@ -210,7 +226,30 @@ void core1_main(void){
 			}
 				//Move to end
 			ret = f_lseek(&fil, f_size(&fil));
-			ret = f_printf(&fil, "%lu,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%c,%lf,%c,%lf,%d,%d,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf\r\n", logData.timeBuff_64, logData.mainVol, logData.mainCur,logData.outTemp, logData.outPress,logData.xAccel,logData.yAccel,logData.zAccel,logData.xMag,logData.yMag,logData.zMag, decodedNMEA.time, decodedNMEA.seconds, decodedNMEA.nOrS, decodedNMEA.latitude, decodedNMEA.eOrW, decodedNMEA.longitude, decodedNMEA.qual, decodedNMEA.sats, decodedNMEA.hdop, decodedNMEA.altitudeASL, decodedNMEA.altitudeGeoid, thrusterOutput[LEFT_HORIZONTAL], thrusterOutput[LEFT_VERTICAL], thrusterOutput[RIGHT_HORIZONTAL], thrusterOutput[LEFT_VERTICAL],currentDepth, targetDepth, kp);
+			ret = f_printf(&fil, "%lu,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%lf,%c,%lf,%c,%lf,%d,%d,%lf,%lf,%lf\r\n", 
+				logData.timeBuff_64, 
+				logData.mainVol, 
+				logData.mainCur,
+				logData.outTemp, 
+				logData.outPress,
+				logData.xAccel,
+				logData.yAccel,
+				logData.zAccel,
+				logData.xMag,
+				logData.yMag,
+				logData.zMag, 
+				decodedNMEA.time, 
+				decodedNMEA.seconds, 
+				decodedNMEA.nOrS, 
+				decodedNMEA.latitude, 
+				decodedNMEA.eOrW, 
+				decodedNMEA.longitude, 
+				decodedNMEA.qual, 
+				decodedNMEA.sats, 
+				decodedNMEA.hdop, 
+				decodedNMEA.altitudeASL, 
+				decodedNMEA.altitudeGeoid
+			);
 			if (ret < 0) {
 				printf("ERROR: Could not write to file (%d)\r\n", ret);
 	     f_close(&fil);
@@ -411,7 +450,17 @@ int main(){
 	static uint32_t preTime = time_us_32();
 	static uint32_t nowTime = time_us_32();
 
-	while(1) {	//main loop
+	PioUartRx rx(pio0, /*sm*/0, /*RX GPIO*/3, /*baud*/115200);
+	char line[256];
+
+	while(1){	//main loop
+		if (rx.dataArrived()) {
+			rx.clearDataArrived();
+			while (rx.popLine(line, sizeof(line))) {
+        fifo_push(line);  // ここでは単にコピーして保存するだけ
+//				puts(line);
+			}
+		}	   
 
 		if(messageFinishFlag == true){
 			messageFinishFlag = false;
@@ -578,11 +627,11 @@ int main(){
 			}
 		}
 */
-		printf("MAN Mode %d\n", ManualModeFlag);
-		printf("Target Depth[cm]: %lf, Current P gain: %lf\n", targetDepth*100, kp);
-		printf("Current Depth[cm]: %lf\n", currentDepth*100);
-		printf("LEFT_VERTICAL_DUTY:%lf, RIGHT_VERTICAL_DUTY:%lf\n", thrusterOutput[LEFT_VERTICAL], thrusterOutput[RIGHT_VERTICAL]);
-		printf("LEFT_HORIZONTAL_DUTY:%lf, RIGHT_HORIZONTAL_DUTY:%lf\n\n", thrusterOutput[LEFT_HORIZONTAL], thrusterOutput[RIGHT_HORIZONTAL]);
+//		printf("MAN Mode %d\n", ManualModeFlag);
+//		printf("Target Depth[cm]: %lf, Current P gain: %lf\n", targetDepth*100, kp);
+//		printf("Current Depth[cm]: %lf\n", currentDepth*100);
+//		printf("LEFT_VERTICAL_DUTY:%lf, RIGHT_VERTICAL_DUTY:%lf\n", thrusterOutput[LEFT_VERTICAL], thrusterOutput[RIGHT_VERTICAL]);
+//		printf("LEFT_HORIZONTAL_DUTY:%lf, RIGHT_HORIZONTAL_DUTY:%lf\n\n", thrusterOutput[LEFT_HORIZONTAL], thrusterOutput[RIGHT_HORIZONTAL]);
 //		printf("Main Voltage: %lf[V]\n", logData.mainVol);
 
 		multicore_fifo_push_blocking(LOG_WRITE_COM);

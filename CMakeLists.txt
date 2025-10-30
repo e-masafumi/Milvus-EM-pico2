@@ -18,6 +18,7 @@ add_executable(main
 	func-BNO055.cpp
 	func-INA228.cpp
 	hw_config.c
+	pio_uart.cpp
 )
 
 pico_generate_pio_header(main ${CMAKE_CURRENT_LIST_DIR}/uart_rx.pio)
@@ -35,6 +36,8 @@ target_link_libraries(main
 	no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
 	hardware_uart 
 	hardware_pio
+	hardware_dma
+	hardware_irq
 )  
 
 pico_add_extra_outputs(main)
